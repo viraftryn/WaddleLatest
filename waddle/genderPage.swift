@@ -14,7 +14,7 @@ struct genderView: View {
             BackgroundGradientView()
             GeometryReader { geometry in
                 
-                Text("Biological differences like body composition and metabolism mean that gender can affect how much water your body needs to stay properly hydrated.\n\nBy knowing your gender, we can give you more accurate hydration goals.")
+                Text("Test Changes Biological differences like body composition and metabolism mean that gender can affect how much water your body needs to stay properly hydrated.\n\nBy knowing your gender, we can give you more accurate hydration goals.")
                     .font(.system(size: 10))
                     .foregroundColor(.white)
                     .multilineTextAlignment(.center)
